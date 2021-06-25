@@ -1,6 +1,6 @@
-# SenpaiBox Resources
+# PCMV Resources
 
-Website resources for Plex Server website "https://pcmv.tk"
+Website resources for PCMV
 
 ## Honorable Mentions
 
